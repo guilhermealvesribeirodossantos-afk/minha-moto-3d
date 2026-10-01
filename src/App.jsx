@@ -6,6 +6,7 @@ import {
   Box,
   ChevronRight,
   CircleDollarSign,
+  Gauge,
   History,
   House,
   Menu,
